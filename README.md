@@ -16,4 +16,4 @@
   <a href="https://www.behance.net/andressampontes" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/andressampontes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andressampontes/andressampontes/blob/output/github-contribution-grid-snake.svg)
