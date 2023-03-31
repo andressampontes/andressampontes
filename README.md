@@ -1,3 +1,3 @@
 ## Hello, I'm Andressa 👋
 
-- 🌱 I’m currently learning HTNLand CSS 
+- 🌱 I’m currently learning HTML and CSS 
